@@ -10,8 +10,8 @@ To write a Python program using OpenCV to perform image thresholding techniques 
 
 - **Experiment No.:** 8
 - **Experiment Name:** Thresholding
-- **Name:** Sabarish A
-- **Register No.:** 212225230232
+- **Name:** deepak sudharshan.b
+- **Register No.:** 2122252300045
 
 ---
 
